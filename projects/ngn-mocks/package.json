@@ -1,0 +1,19 @@
+{
+    "name": "ngn-mocks",
+    "version": "1.0.3",
+    "description": "A simple library for Angular 2+ framework for backend-less development.",
+    "keywords": [
+        "Angular 2",
+        "Mocks",
+        "Backend less"
+    ],
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://Stanislau_Davydzenka@bitbucket.org/Stanislau_Davydzenka/ngn-mocks.git"
+    },
+    "peerDependencies": {
+        "@angular/common": "^7.0.0",
+        "@angular/core": "^7.0.0"
+    }
+}
